@@ -26,10 +26,7 @@
 ---
 
 ## 🛠 how to deploy 
-
-```
- unfortunately the files aren't fully uploaded to GitHub so the bot is only deployable on panel for now
-``` ---
+<h1 align="center">⟦⌬ CYBΞRWΞΞBS BOT ⌬⟧ is not fully uploaded on GitHub so heroku,render etc aren't available. for now only panel deployment is available</h1>
 
 ## 📡 Links
 
