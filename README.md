@@ -28,12 +28,8 @@
 ## 🛠 how to deploy 
 
 ```
-unfortunately the files aren't fully uploaded to GitHub so the bot is only deployable on panel for now
-```
-
-> Configure your `settings.js` with your name, number, and keys.
-
----
+ unfortunately the files aren't fully uploaded to GitHub so the bot is only deployable on panel for now
+``` ---
 
 ## 📡 Links
 
