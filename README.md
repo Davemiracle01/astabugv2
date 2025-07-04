@@ -44,5 +44,5 @@
 
 1. **Clone the Repo**
 ```bash
-git clone https://github.com/yourgithub/CyberWeeb-Bot
+git clone https://github.com/Davemiracle01/cyberweebsbot
 cd CyberWeeb-Bot
