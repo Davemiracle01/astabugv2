@@ -25,13 +25,10 @@
 
 ---
 
-## 🛠 Installation
+## 🛠 how to deploy 
 
-```bash
-git clone https://github.com/Davemiracle01/cyberweebsbot
-cd cyberweebsbot
-npm install
-node index.js
+```
+unfortunately the files aren't fully uploaded to GitHub so the bot is only deployable on panel for now
 ```
 
 > Configure your `settings.js` with your name, number, and keys.
