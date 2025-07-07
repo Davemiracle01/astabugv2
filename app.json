@@ -1,0 +1,21 @@
+{
+  "name": "CyberWeebsBot",
+  "description": "A WhatsApp bot themed by CyberWeebs, built with multi-device Baileys.",
+  "repository": "https://github.com/Davemiracle01/cyberweebsbot",
+  "logo": "https://telegra.ph/file/32fa51eec14a7cd41bdb0.jpg",
+  "keywords": ["whatsapp", "bot", "baileys", "cyberweebs"],
+  "env": {
+    "CREDS_JSON": {
+      "description": "Paste your creds.json content here (as a single line JSON).",
+      "required": true
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "scripts": {
+    "postdeploy": "echo 'CyberWeebsBot deployed successfully!'"
+  }
+}
