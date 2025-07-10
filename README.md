@@ -42,3 +42,11 @@ Made with by **dave**
 📞 Contact: [Owner on WhatsApp](https://wa.me/254769279076)
 
 ---
+  <h1>Cyberweebs Bot Panel Deployment</h1>
+  <p>Click below to view the README and deployment instructions:</p>
+  <a class="download-button" href="https://github.com/Davemiracle01/cyberweebsbot" target="_blank">
+    Click here to download the files for panels deployment
+  </a>
+</body>
+</html>
+
