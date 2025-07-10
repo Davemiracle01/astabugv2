@@ -43,10 +43,4 @@ Made with by **dave**
 
 ---
   <h1>Cyberweebs Bot Panel Deployment</h1>
-  <p>Click below to view the README and deployment instructions:</p>
-  <a class="download-button" href="https://github.com/Davemiracle01/cyberweebsbot" target="_blank">
-    Click here to download the files for panels deployment
-  </a>
-</body>
-</html>
-
+  [CyberWeebs panelfiles](https://github.com/Davemiracle01/cyberweebsbot/archive/refs/heads/main.zip)
